@@ -19,3 +19,11 @@ ejemplo 2: scraping web con `puppeteer` para poder ejecutar los javascript que c
 
 Terminal: 
  ```node renderingJsPage.js```
+
+
+## Créditos
+- [Carlos Velasquez](https://twitter.com/@carlosbrunotbc)
+
+## Licencia
+
+[MIT](https://opensource.org/licenses/MIT)
